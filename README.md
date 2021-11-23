@@ -1,9 +1,9 @@
 # ScreenShot's
 
 ## GoogleConsole:
+Thanks to @cuteyaw#6969 On Discord For Geting Server Count To Work
 
 ![GoogleConsole](https://cdn.upload.systems/uploads/Wj9A0wSW.png)
-Thanks to @cuteyaw#6969 On Discord For Geting Server Count To Work
 
 ## Theme's:
 
