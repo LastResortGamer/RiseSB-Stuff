@@ -8,20 +8,20 @@
 
 ### GoogleBlue:
 
-![GoogleBlue](https://LastResortGamer.pasted.host/​‌‌​‌‌​​​‌​​​‌‌​​‌​​​‌‌​​‌​‌​‌‌‌​‌‌​​‌‌‌​‌‌​‌‌‌​​‌​‌​‌‌‌​‌​​‌​​‌)
+![GoogleBlue](https://cdn.upload.systems/uploads/lFFWgnWI.png)
 
 ### GoogleGreen:
 
-![GoogleGreen](https://LastResortGamer.pasted.host/​‌​​‌‌‌‌​‌‌‌​‌‌​​‌​​‌​​​​​‌‌​‌​‌​‌​​‌‌‌‌​‌​​‌​​​​‌​​​‌​‌​‌‌‌​‌​​)
+![GoogleGreen](https://cdn.upload.systems/uploads/OvH5OHEt.png)
 
 ### GoogleNoColor:
 
-![GoogleNoColor](https://LastResortGamer.pasted.host/​‌‌​​‌​​​‌​​‌​​​​‌​​​‌‌‌​‌‌​​​‌‌​​‌‌​‌​​​​‌‌​‌‌​​‌​‌‌​​​​‌‌‌​‌​‌)
+![GoogleNoColor](https://cdn.upload.systems/uploads/dHGc46Xu.png)
 
 ### GoogleRed:
 
-![GoogleRed](https://LastResortGamer.pasted.host/​‌‌​‌​​​​‌​​​‌‌​​‌‌​​‌‌‌​‌‌‌​​​​​‌‌‌​‌‌‌​‌‌​​‌‌‌​‌‌‌​​‌​​‌‌​‌​​‌)
+![GoogleRed](https://cdn.upload.systems/uploads/VnGG4USC.png)
 
 ### GoogleYellow:
 
-![GoogleYellow](https://LastResortGamer.pasted.host/​​‌‌​​​​​‌​‌‌​‌​​‌​‌​​‌​​‌‌‌​‌​‌​‌​​​​‌​​‌‌​‌​‌‌​​‌‌​‌​‌​‌‌‌‌​‌​)
+![GoogleYellow](https://cdn.upload.systems/uploads/0ZRuBk5z.png)
