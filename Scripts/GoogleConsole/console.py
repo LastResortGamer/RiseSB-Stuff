@@ -12,11 +12,11 @@ def Console():
                                 Don't Be Evil
                                         Use RiseSB
 {Fore.RESET} ''')
-    print(f'{Style.BRIGHT}' + f'{Fore.RED}' 'Connected: '  + f'{Style.BRIGHT}' + f'{Fore.WHITE}' + f'{Rise.user.name}' + f'{Style.BRIGHT}' + f'{Fore.WHITE}' + '#' + f'{Style.BRIGHT}' + f'{Fore.WHITE}' + f'{Rise.user.discriminator}' 
-    + f'{Style.BRIGHT}' + f'{Fore.RED}' ' Prefix: ' + f'{Style.BRIGHT}' + f'{Fore.WHITE}' + '[' + f'{Style.BRIGHT}' + f'{Fore.WHITE}' + f'{prefix}' + f'{Style.BRIGHT}' + f'{Fore.WHITE}' + ']'
-    + f'{Style.BRIGHT}' + f'{Fore.RED}' ' Servers: ' + f'{Style.BRIGHT}' + f'{Fore.WHITE}' + f'{guilds}'  )
+    print(f'{Fore.LIGHTRED_EX}' 'Connected: ' + f'{Fore.WHITE}' + f'{Rise.user.name}' + f'{Fore.WHITE}' + '#' + f'{Fore.WHITE}' + f'{Rise.user.discriminator}' 
+    + f'{Fore.LIGHTRED_EX}' ' Prefix: ' + f'{Fore.WHITE}' + '[' + f'{Fore.WHITE}' + f'{prefix}' + f'{Fore.WHITE}' + ']'
+    + f'{Fore.LIGHTRED_EX}' ' Servers: ' + f'{Fore.WHITE}' + f'{guilds}'  )
     print(f'{Fore.WHITE}' '═' * os.get_terminal_size().columns)
-    print(f'{Style.BRIGHT}' + f'{Fore.RED}' 'Hint: Type' + f'{Style.BRIGHT}' + f'{Fore.WHITE}' ' help ' + f'{Style.BRIGHT}' + f'{Fore.RED}' 'in console to see all console commands.' )
+    print(f'{Fore.LIGHTRED_EX}' 'Hint: Type' + f'{Fore.WHITE}' ' help ' + f'{Fore.LIGHTRED_EX}' 'in console to see all console commands.' )
 
 os.system('mode con: cols=85 lines=25')
 
