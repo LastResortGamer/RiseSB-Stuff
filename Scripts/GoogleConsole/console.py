@@ -16,7 +16,7 @@ def Console():
     + f'{Fore.LIGHTRED_EX}' ' Prefix: ' + f'{Fore.WHITE}' + '[' + f'{Fore.WHITE}' + f'{prefix}' + f'{Fore.WHITE}' + ']'
     + f'{Fore.LIGHTRED_EX}' ' Servers: ' + f'{Fore.WHITE}' + f'{guilds}'  )
     print(f'{Fore.WHITE}' '═' * os.get_terminal_size().columns)
-    print(f'{Fore.LIGHTRED_EX}' 'Hint: Type' + f'{Fore.WHITE}' ' help ' + f'{Fore.LIGHTRED_EX}' 'in console to see all console commands.' )
+    print(f'{Fore.LIGHTRED_EX}' 'Hint: Type ' + f'{Fore.WHITE}' + f'{prefix}' 'help ' + f'{Fore.LIGHTRED_EX}' 'in discord to see all console commands.' )
 
 os.system('mode con: cols=85 lines=25')
 
